@@ -11,3 +11,5 @@ Si vous utiliser VSCode ou un autre éditeur de code avec une extersion de serve
 Dans le cas contraire vous pouvez installer les dépendances de ce projet avec `npm install` puis lancer le projet via la commande `npm start`. Vous verrez dans le termninal le lien vers le site (par defaut http://127.0.0.1:8080 )
 
 Pour accéder au serveur se placer dans le répertoire api-http et lancer `npm start`
+Necessite l'installation du back-end dispo ici :
+  https://github.com/OpenClassrooms-Student-Center/7697016-Back-End
